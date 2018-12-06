@@ -62,4 +62,4 @@ public class TestPoolConexiones {
 	}
 }
 
-// Añadimos un comentario al final
+// Cambiamos el mensaje comentado
